@@ -1,1 +1,1 @@
-# linters_config
+# LINTERS CONFIG
